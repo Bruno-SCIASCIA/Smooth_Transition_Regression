@@ -14,9 +14,6 @@ A Python workflow that models U.S. macro-financial data with a logistic Smooth T
 ## Highlights
 - Integrated stationarity checks, visual diagnostics and model evaluation.  
 - Logistic STR with time-varying coefficients plus residual, normality and heteroskedasticity tests.
-## License
-MIT
-
 ---
 
 © 2024-25 Bruno Sciascia
